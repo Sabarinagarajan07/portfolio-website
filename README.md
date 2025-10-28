@@ -17,7 +17,7 @@ This website represents my basic web development skills and acts as my online po
 ---
 How to view 
 
-you can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
+you can access my portfolio website by visiting [https://sabarinagarajan07.github.io/portfolio-website/index.html] feel free to explore the content and get in touch!
 
 ---
 
