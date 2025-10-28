@@ -15,8 +15,7 @@ It includes two main pages: **Home** and **Contact**.
 This website represents my basic web development skills and acts as my online portfolio.
 
 ---
-
-##How to view 
+How to view 
 
 you can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
 
