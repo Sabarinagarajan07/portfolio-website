@@ -19,6 +19,8 @@ How to view
 
 you can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
 
+---
+
 ## 🛠️ Technologies Used
 - HTML
 - CSS
